@@ -1,4 +1,4 @@
 # Learning
 This is my first Git repository.
 <br>
-Author - Naman Goyal
+Author - Naman Goyal(Project)
