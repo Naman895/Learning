@@ -1,2 +1,4 @@
 # Learning
-This is my first Github repository.
+This is my first Git repository.
+<br>
+Author - Naman Goyal
